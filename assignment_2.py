@@ -16,4 +16,5 @@ name_dict = {
 }
 
 # section2
+# find out how not to print eveything in one line?
 print(name_dict)
