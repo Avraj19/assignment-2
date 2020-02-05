@@ -1,8 +1,19 @@
 # section 1
+hero_name = input('Enter hero name: ').capitalize().strip()
+villain_name = input('Enter villain name: ').capitalize().strip()
+
 name_dict = {
-    'Beginning': 'In the beginning there was our god',
-    'Middle': 'Then came the universe with all its glory',
-    'End': 'After millions of years of peace there was war, that threaten the universe.'
+    'Hero': hero_name,
+    'villain': villain_name,
+    'Beginning': 'In the beginning there was a hero but '
+                 'he called himself '+ hero_name,
+    'Middle': 'Life was good, what felt like forever.'
+              'As our hore was having this though a villian '
+              'was born at the same time and his name was' + villain_name,
+    'End': 'Some time had passed, the villain grow up and the hero became old'
+           ''
 }
 
-#
+# section2
+
+print(name_dict)
