@@ -15,5 +15,4 @@ name_dict = {
 }
 
 # section2
-
 print(name_dict)
