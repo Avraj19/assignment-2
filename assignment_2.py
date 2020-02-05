@@ -10,8 +10,9 @@ name_dict = {
     'Middle': 'Life was good, what felt like forever.'
               'As our hore was having this though a villian '
               'was born at the same time and his name was' + villain_name,
-    'End': 'Some time had passed, the villain grow up and the hero became old'
-           ''
+    'End': 'Some time had passed, the villain grow up and the hero became old.'
+           'when they first meat a fight broke out, one instantly understanding the other.'
+           'In the end they no one won this meaning less fight.'
 }
 
 # section2
