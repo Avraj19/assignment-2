@@ -8,7 +8,7 @@ name_dict = {
     'Beginning': 'In the beginning there was a hero but '
                  'he called himself '+ hero_name,
     'Middle': 'Life was good, what felt like forever.'
-              'As our hore was having this though a villian '
+              'As our hero was having this though a villian '
               'was born at the same time and his name was' + villain_name,
     'End': 'Some time had passed, the villain grow up and the hero became old.'
            'when they first meat a fight broke out, one instantly understanding the other.'
@@ -17,4 +17,5 @@ name_dict = {
 
 # section2
 # find out how not to print eveything in one line?
-print(name_dict)
+#print(name_dict)
+print(name_dict['Beginning'])
